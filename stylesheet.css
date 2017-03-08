@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial',serif;
+    
+}
+
+.nav{
+    background-color: #ffffff;
+    color: #000000;
+    list-style: none;
+    text-align: right;
+    padding: 20px 0 0 0;
+}
+
+.nav >li{
+    display: inline-block;
+    padding: 0 25px 0 25px;
+    font-size: 12px;
+}
+
+.nav > li > a{
+    text-decoration: none;
+    color: #000000;
+}
+
+.nav >li>a:hover{
+    color: #c1c1c1;
+}
+
+.logo{
+    color: #000000;
+    float: left;
+    padding-left: 25px;
+    font-size:16px;
+    font-weight: bold;
+}
+
+.logo > a{
+    text-decoration: none;
+    color:#000000;
+}
+
+.banner-image{
+    width: 100%;
+    display: block;
+}
+
+.crossant{
+    width: 30%;
+    padding: 25px;
+}
+
+.crepes{
+    width: 27%;
+    padding: 0px 0px 9px;
+}
+
+.sandwich{
+    width: 30%;
+    padding-bottom: 250px;
+}
+
+.random{
+    width: 30%;
+    padding-bottom: 265px;
+    padding-left: 50px;
+}
