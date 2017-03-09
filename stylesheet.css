@@ -66,3 +66,27 @@ body{
     padding-bottom: 265px;
     padding-left: 50px;
 }
+
+
+.cusine1{
+    width: 298px;
+    border: 1px solid #c1c1c1;
+    margin: 20px 10px;
+    padding: 0 5px;
+    float: left;
+}
+
+.cusine1 > p{
+    font-size: 14px;
+    color: #636363;
+    max-width: 250px;
+}
+
+.cusines{
+    width: 320px;
+    margin: 0 auto;
+}
+
+.image{
+    width: 300px;
+}
